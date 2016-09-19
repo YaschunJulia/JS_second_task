@@ -12,4 +12,4 @@ var startOfMonth = function (date){
 
 console.log('startOfMonth(new Date()) => ' + startOfMonth(new Date()));
 console.log('startOfMonth(Date.now()) => ' + startOfMonth(Date.now()));
-console.log('startOfMonth("03/11/2009") => ' + startOfMonth('03/11/2009'));
+console.log('startOfMonth("11/03/2009") => ' + startOfMonth('11/03/2009'));
